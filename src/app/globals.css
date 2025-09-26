@@ -10,16 +10,20 @@
 
 @theme  {
   --font-public-sans: 'Public Sans', sans-serif;
-
+  --color-primary: #3BA334;
+  --color-primary-200:#ABDAA9;
+  --color-heading-800:#212B36;
 }
 
 
 .bg-hero {
  background-image: url('../../public/images/image-bg.png');
-  background-position: left;
+  background-position:30px 50%;
+  background-repeat: no-repeat;
   background-size: cover;
-
- 
+  
+  
+  
 }
 
 

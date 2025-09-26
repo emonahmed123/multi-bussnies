@@ -1,15 +1,20 @@
 
 const HowtoWork = () => {
     return (
-        <div className="py-[90px] bg-red-900 z-[999]">
-            <h2>How It Works</h2>
-            <ol>
-                <li>Step 1: Sign up for an account</li>
-                <li>Step 2: Create a new project</li>
-                <li>Step 3: Invite your team members</li>
-                <li>Step 4: Start collaborating!</li>
-            </ol>
-        </div>
+        <section className="maw-w-[1200px] mx-auto px-3 xl:px-0 py-10   ">
+
+
+            <div className="w-[284px] border-r ">
+                <Image src={""} />
+
+                <h6>Easy Service Booking</h6>
+
+                <p className="max-w-[221px]">Streamlined booking process for clients with service catalogs and availability.</p>
+
+            </div>
+
+
+        </section>
     );
 };
 

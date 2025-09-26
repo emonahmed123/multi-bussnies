@@ -113,13 +113,13 @@ const HeroSection = () => {
                                 height={900}
                             />
                         </div>
-                        <div className=" relative  bottom-10 z-[99] w-full">
+                        <div className=" relative   bottom-10 z-[99] w-full">
                             <Image
                                 src={HeroImage}
                                 alt="Job management app interface showing scheduling and tracking features"
                                 width={742}
                                 height={656}
-                                className="w-[742px]  h-[600px]   "
+                                className="w-[742px]   h-[600px]   "
                             />
                         </div>
                     </div>

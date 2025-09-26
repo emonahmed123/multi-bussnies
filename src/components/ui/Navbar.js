@@ -10,7 +10,7 @@ const Navbar = () => {
                     alt="Logo"
                     width={147}
                     height={60}
-                    className="w-[130px]  sm:w-[147px] sm: h-[60px]"
+                    className="w-[130px]  sm:w-[147px] sm: h-[60px] "
                 />
 
 
